@@ -1,5 +1,11 @@
 # GraphRing-d3.v3
 
+Description
+------
+
+GraphRing，js小工具，可用于快速定制graph ＋ ring视图  
+![][p4]
+
 使用
 ------
 
