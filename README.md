@@ -3,15 +3,15 @@
 使用
 ------
 
-1）	引用文件_graphRing.js。在此之前，需引用d3.js (<= version 3.0)、jquery.js (version2.1.4)、d3-tip.js (Copyright (c) 2013 Justin Palmer)。  
-2）	引用文件graph-ring.less  
+1 引用文件_graphRing.js。在此之前，需引用d3.js (<= version 3.0)、jquery.js (version2.1.4)、d3-tip.js (Copyright (c) 2013 Justin Palmer)。  
+2 引用文件graph-ring.less  
 
 功能介绍
 ------
 
-1）	hover圆弧，显示圆弧的名字  
-2）	刷选node-link视图；按住shift，在原刷选结果上，修改刷选结果  
-3）	点击圆弧，满足条件的节点将高亮；其他圆弧将显示高亮的元素占该圆弧的比例。点击选择圆弧，同个环上的圆弧之间支持或操作；不同圆环之间的选择支持与操作。  
+1 hover圆弧，显示圆弧的名字  
+2 刷选node-link视图；按住shift，在原刷选结果上，修改刷选结果  
+3 点击圆弧，满足条件的节点将高亮；其他圆弧将显示高亮的元素占该圆弧的比例。点击选择圆弧，同个环上的圆弧之间支持或操作；不同圆环之间的选择支持与操作。  
 
 接口
 ------
